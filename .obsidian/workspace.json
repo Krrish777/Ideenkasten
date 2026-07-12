@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "428511e76d627e76",
+    "type": "split",
+    "children": [
+      {
+        "id": "db0c3edcdf2021d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f119f07c4d2a3970",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01161eed8666a90a",
+    "type": "split",
+    "children": [
+      {
+        "id": "84addd2fa479b439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f47db99dc8d5a63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "96a2179e59488f8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "716b25709ec82b03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db9a20ab6f8c0533",
+    "type": "split",
+    "children": [
+      {
+        "id": "913eab2e924373db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32005435450d165e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5f5d490d766de208",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "36254c8eef068acd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8eb9a1b8d9078f3f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d3d0d1239df9ec94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f119f07c4d2a3970",
+  "lastOpenFiles": [
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Where-Agents-Get-Stuck.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-What-Is-A-Harness.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-State-Persistence.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Session-Hygiene.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Scope-Control-WIP.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Preventing-Premature-Victory.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Observability.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Instructions-Drawing-A-Map.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Instruction-File-Trap.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Initialization-Phase.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Hub.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Five-Subsystems.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Feature-List-Primitive.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Beyond-Unit-Tests-E2E.md",
+    "Deep Dive/Harness-Engineering/Harness-Engineering-Architectural-Boundaries.md",
+    "Deep Dive/Harness-Engineering",
+    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Tool-Calling-Internals.md",
+    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Things-You-Dont-Know-Yet.md",
+    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Termination-Budgets-Loop-Control.md",
+    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Subagent-Orchestration.md",
+    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Speculative-Decoding.md",
+    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Scheduling-And-Steering.md",
+    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Sandbox-Kernel-Enforcement.md",
+    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Runtime-Optimization.md",
+    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Runtime-Anatomy.md",
+    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Responses-API-Protocol.md",
+    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Research-Contract.md",
+    "Deep Dive/Harness-Engineering-Internals",
+    "Deep Dive",
+    "New folder"
+  ]
+}

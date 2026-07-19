@@ -1,0 +1,26 @@
+# Normalise line endings so files behave the same on Windows, macOS and in CI.
+# Krrish works on Windows, GitHub Actions runs Ubuntu, and contributors could
+# be on anything.
+
+# Default: let git normalise text files to LF in the repo, checkout native.
+* text=auto
+
+# Must be LF. CRLF breaks these on Linux.
+# A shell script with CRLF fails with "bad interpreter: /bin/bash^M".
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+
+# Notes. LF keeps diffs clean when contributors are on different platforms,
+# which matters because every PR here is a markdown diff.
+*.md text eol=lf
+
+# Binary. Never normalise, never diff as text.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.webp binary

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db0c3edcdf2021d2",
+        "id": "e3b85577bcece6cc",
         "type": "tabs",
         "children": [
           {
-            "id": "f119f07c4d2a3970",
+            "id": "1fdc51d8b44cd4d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE"
             }
           }
         ]
@@ -176,37 +180,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "f119f07c4d2a3970",
+  "active": "2f47db99dc8d5a63",
   "lastOpenFiles": [
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Where-Agents-Get-Stuck.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-What-Is-A-Harness.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-State-Persistence.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Session-Hygiene.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Scope-Control-WIP.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Preventing-Premature-Victory.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Observability.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Instructions-Drawing-A-Map.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Instruction-File-Trap.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Initialization-Phase.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Hub.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Five-Subsystems.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Feature-List-Primitive.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Beyond-Unit-Tests-E2E.md",
-    "Deep Dive/Harness-Engineering/Harness-Engineering-Architectural-Boundaries.md",
-    "Deep Dive/Harness-Engineering",
-    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Tool-Calling-Internals.md",
-    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Things-You-Dont-Know-Yet.md",
-    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Termination-Budgets-Loop-Control.md",
-    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Subagent-Orchestration.md",
-    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Speculative-Decoding.md",
-    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Scheduling-And-Steering.md",
-    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Sandbox-Kernel-Enforcement.md",
-    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Runtime-Optimization.md",
-    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Runtime-Anatomy.md",
-    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Responses-API-Protocol.md",
-    "Deep Dive/Harness-Engineering-Internals/Harness-Internals-Research-Contract.md",
-    "Deep Dive/Harness-Engineering-Internals",
-    "Deep Dive",
-    "New folder"
+    "CLAUDE.md.tmp.16112.d920a36a8a51",
+    "CLAUDE.md.tmp.16112.62e5d7b792b6",
+    "03 - Glossary/sedaTvs6H",
+    "scripts/check-style.sh.tmp.16112.a0f948b3cfde",
+    "CLAUDE.md.tmp.16112.f49b20beee4e",
+    "scripts/check-style.sh",
+    "scripts/check-style.sh.tmp.16112.38798fbf71e8",
+    "scripts",
+    "09 - Templates/Event Hub Template.md",
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.16112.80ed49bb06ae",
+    "01 - Events/BLR/Software Architect - Devon Meetup/Software Architects Meetup.md",
+    "CONTRIBUTING.md.tmp.16112.858b75bcfb12",
+    "CONTRIBUTING.md.tmp.16112.d2ed615de25f",
+    "09 - Templates/Glossary Entry Template.md",
+    "09 - Templates/Talk Note Template.md",
+    "README.md",
+    "08 - Attachments/software-architect-devon.png",
+    "08 - Attachments/Screenshot 2026-07-19 231904.png",
+    "CONTRIBUTING.md",
+    "CONTINUITY.md",
+    "01 - Events/BLR/Software Architect - Devon Meetup/Software Architects Meetup - Hub.md",
+    "01 - Events/BLR/Software Architect - Devon Meetup/04 LLM as Judge - Arkadip Basu.md",
+    "01 - Events/BLR/Software Architect - Devon Meetup/03 Oodle AI - Agent Observability.md",
+    "01 - Events/BLR/Software Architect - Devon Meetup/02 Architecting for 1M+ RPS - Subal Bain.md",
+    "03 - Glossary/Agent as a Judge.md",
+    "03 - Glossary/Bandwagon Bias.md",
+    "03 - Glossary/Sycophancy Bias.md",
+    "03 - Glossary/Style Bias.md",
+    "03 - Glossary/Self-Enhancement Bias.md",
+    "03 - Glossary/Verbosity Bias.md",
+    "03 - Glossary/Position Bias.md",
+    "01 - Events/BLR/Software Architect - Devon Meetup/01 Six Architecture Decisions - Sachin Garg.md",
+    "03 - Glossary/G-Eval.md",
+    "03 - Glossary/Drain Algorithm.md",
+    "03 - Glossary/Confidential Containers.md",
+    "03 - Glossary/A2A Protocol.md",
+    "03 - Glossary/in-toto.md"
   ]
 }

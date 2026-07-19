@@ -1,0 +1,15 @@
+# Obsidian per-user UI state. Rewrites itself every time the vault is opened,
+# so it produces a spurious diff in every contributor PR.
+# The rest of .obsidian/ stays tracked so the Templates plugin works on clone.
+# See README, "Opening it in Obsidian".
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Agent tooling state, not vault content.
+.remember/
+**/.remember/
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
